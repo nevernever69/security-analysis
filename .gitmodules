@@ -1,0 +1,3 @@
+[submodule "lodepng-security-analysis"]
+	path = lodepng-security-analysis
+	url = https://github.com/paraschopra/lodepng-security-analysis.git
